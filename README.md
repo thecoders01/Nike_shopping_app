@@ -1,16 +1,17 @@
-# nike_shopping_app
+# Flutter Nike Shopping app
 
-A new Flutter project.
+A small shopping app with drag and drop animation
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+## Home page
 
-A few resources to get you started if this is your first Flutter project:
+![Alt text](assets/screenshots/nike_shop_app_homepage.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Item view page
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt text](assets/screenshots/nike_app_view_page.png)
+
+## Links
+
+- [Instagram](https://www.instagram.com/the.coders01/)
